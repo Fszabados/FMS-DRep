@@ -76,7 +76,7 @@
       {
         "@type": "Identity",
         "label": {
-          "@value": "FMS "
+          "@value": "FMS"
         },
         "uri": {
           "@value": "https://cexplorer.io/pool/pool1upa4pa4qmcgaps4uactx9eas44rfwk9h0rxgua3l4xnf6wevfkt"
